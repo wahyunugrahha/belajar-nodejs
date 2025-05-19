@@ -1,0 +1,3 @@
+Ini adalah Line 1!
+Ini adalah Line 2!
+Akhir

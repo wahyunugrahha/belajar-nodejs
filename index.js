@@ -13,3 +13,9 @@ console.log(`Mode environment: ${environment}`);
 console.log(
   `Penggunaan memori dari ${initialMemoryUsage} naik ke ${currentMemoryUsage}`
 );
+const message = (name) => {
+  console.log(`Hello ${name}`);
+};
+
+message(`Javascript`);
+
